@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+}
+
+.hone{
+    font-size: 50px;
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+    width: 300;
+       
+}
+.pee{
+    color: white;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: 30px;
+}
+
+ .btn-1{
+    text-decoration: none;
+    background-color:  #641e72;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+ .section-01{
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    
+    padding-bottom: 150px;
+    padding-top: 150px; 
+    background-position: center;
+    background-size: cover;
+
+    
+ }
+ 
+
+ /* section 2 ar kaj  */
+ .Donate{
+    text-align: center;
+    margin-top: 80px;
+ }
+  .Donate h1 {
+    margin-bottom: 10px;
+      }
+.Donate p {
+    width: 30%;
+    margin-bottom:10px ;
+}
+
+.taka{
+    display: flex;
+
+    margin-left: 400px;
+    margin-top: 50px;margin-bottom: 50px;
+}
+ 
+.taka div {
+  
+    border: 2px solid rgb(240, 232, 232);
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin: 10px;
+}
+
+ 
+.twotk{
+    border: 1px solid red;
+    
+}
+.twotk  h3{
+    color: red;
+    border: 1px solid red ;
+     
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin: -20px;
+}
+.other {
+    text-align: center;
+    margin-bottom: 25px;
+}
+ 
+.button{
+     text-decoration: none;
+     margin-left: 610px;
+    border: 1px solid  #FF5959;
+    padding: 10px;
+      color: white;
+    background-color: #FF5959;
+    border-radius: 10px;
+     
+}
+
+/* section 3 */
+.header2{
+    text-align-last: center;
+}
+.section-3{
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+}
+.card{
+    display: flex;
+    margin-top:70px ;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    
+}
+
+.card1{
+    background-color:#EDF5F6;
+    padding: 20px;
+    margin: 10px;padding-top: 10px;
+
+}
+.card2{
+    background-color:#FFEEEE;
+    padding: 20px;
+    margin: 10px;
+}
+.card3{
+    background-color:#FFF4D6 ;
+    padding: 20px;
+    margin: 10px;
+    
+}
