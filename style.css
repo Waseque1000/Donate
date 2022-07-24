@@ -57,7 +57,7 @@
 .taka{
     display: flex;
 
-    margin-left: 400px;
+    margin-left: 300px;
     margin-top: 50px;margin-bottom: 50px;
 }
  
@@ -150,7 +150,7 @@
     margin-bottom: 30px;
 }
 .img{
-    width: 28%;
+    /* width: 28%; */
     background-position: center;
     padding-bottom: 30px;
     margin-right: 20px;
@@ -195,11 +195,12 @@
     padding-left: 30px;
     margin-left: 40px;  
     text-align: justify;
+    width: 40%;
 }
 .heading-5 h1 {
     padding: 50px;
     font-size: 40px;  
-    width: 600;
+    
 }
 .heading-5 p {
     margin-bottom: 30px;
