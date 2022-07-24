@@ -139,3 +139,141 @@
     margin: 10px;
     
 }
+
+
+/* section 4 */
+
+.section-4{
+    padding-top: 20px;
+    display: flex;
+    width: 80%;
+    margin-bottom: 30px;
+}
+.img{
+    width: 28%;
+    background-position: center;
+    padding-bottom: 30px;
+    margin-right: 20px;
+    /* margin-right: - 40px; */
+   
+}
+.two-part{
+    /* width: 50%; */
+    margin-top: 100px;
+    padding-right: 50px;
+    padding-left: 30px;
+    margin-left: 40px;  
+    text-align: justify;
+}
+.two-part h1 {
+    padding: 50px;
+    font-size: 30px;
+}
+
+.two-part p {
+    margin-bottom: 20px;
+}
+.two-btn{
+    text-decoration: none;
+    background-color: #F2981A;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-left: px;
+}
+
+/* section 5 */
+.section-5{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.heading-5{
+    margin-top: 50px;
+    padding-right: 50px;
+    padding-left: 30px;
+    margin-left: 40px;  
+    text-align: justify;
+}
+.heading-5 h1 {
+    padding: 50px;
+    font-size: 40px;  
+    width: 600;
+}
+.heading-5 p {
+    margin-bottom: 30px;
+}
+
+.three-btn{
+    text-decoration: none;
+    background-color: #05B1DF;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
+.img-1{
+    margin-left: 25px;
+}
+
+/* section 6 */
+
+.section-6{
+    margin-top: 60px;
+    margin-left: -40px;
+    margin-right: -40px;
+    padding-left: -40px;
+    padding-right: -40px;
+}
+.head-5{
+    text-align: center;
+}
+
+.head-5 h1{
+    font-size: 50px;
+    margin-bottom: 17px;
+}
+
+.head-5 h4{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+ .neww{
+    display: flex;
+    padding-left: 550px;
+    background-color: #F29DAD;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+ }
+ .btn-4{
+    text-decoration: none;
+    background-color:#FF5959;
+    border-radius: 10px;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 7px;
+    text-color: white;
+
+ }
+
+
+
+ .fotter{
+    background-color:#0B0D17;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+ }
+.fotter p{
+    color: white;
+}
+
+
+
+
